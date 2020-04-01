@@ -11,7 +11,7 @@ module.exports = function (grunt) {
       }
     },
     cssmin: {
-      'dist/style.css': 'style.css'
+      'dist/index.css': 'index.css'
     },
     uglify: {
       release:{
